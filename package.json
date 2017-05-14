@@ -26,7 +26,7 @@
     "@axetroy/react-img-lazy-load": "^0.1.1",
     "@axetroy/react-now": "^0.1.1",
     "@axetroy/roll": "^1.0.2",
-    "antd": "^2.9.3",
+    "antd": "^2.10.1",
     "axios": "^0.16.1",
     "axios-retry": "^1.2.0",
     "chart.js": "^2.5.0",
