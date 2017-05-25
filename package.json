@@ -23,7 +23,7 @@
     "antd": "^2.9.3",
     "axios": "^0.16.1",
     "axios-retry": "^1.2.0",
-    "chart.js": "^2.5.0",
+    "chart.js": "^2.6.0",
     "clipboard": "^1.6.1",
     "fastclick": "^1.0.6",
     "firebase": "^4.0.0",
